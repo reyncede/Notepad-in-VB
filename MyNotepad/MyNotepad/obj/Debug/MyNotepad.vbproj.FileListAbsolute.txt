@@ -1,0 +1,12 @@
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.xml
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.vbprojAssemblyReference.cache
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Resources.resources
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.vbproj.GenerateResource.cache
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.vbproj.CoreCompileInputs.cache
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.xml
+C:\Users\donta\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
